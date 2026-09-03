@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 316" role="img" aria-label="Dark purple envelope">
+  <defs>
+    <linearGradient id="body" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#482052"/>
+      <stop offset="1" stop-color="#1d0b2d"/>
+    </linearGradient>
+    <linearGradient id="flap" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6b2c6c"/>
+      <stop offset="1" stop-color="#2c123d"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="492" height="308" rx="18" fill="url(#body)" stroke="#f2d79c" stroke-opacity=".72" stroke-width="3"/>
+  <path d="M8 12 250 184 492 12" fill="url(#flap)" stroke="#f2d79c" stroke-opacity=".72" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M8 304 186 150M492 304 314 150" fill="none" stroke="#f2d79c" stroke-opacity=".42" stroke-width="3"/>
+  <path d="M10 304 205 143M490 304 295 143" fill="none" stroke="#170923" stroke-opacity=".55" stroke-width="8"/>
+</svg>
